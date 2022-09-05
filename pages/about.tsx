@@ -18,36 +18,36 @@ const About = () => {
           <div className="postContent">
             <div className="avatarImage">
               <Image
-                src="/images/avatar.jpg"
+                src="/images/me2.jpg"
                 width={200}
                 height={200}
-                alt="Victor Ofoegbu"
+                alt="Tiago Serra"
               />
             </div>
             <p>
               I'm{' '}
               <a
-                href="https://twitter.com/vick_OnRails"
+                href="https://twitter.com/TiagoS_HR"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                @Victor
+                @Tiago
               </a>
-              , a Designer and Frontend Engineer learning to build fast and
-              delightful experiences on the web. I'm also passionate about Web
-              Standards, Design Systems and Learning in Public.
+              , an aspiring Full-Stack Engineer learning to build fast and
+              delightful experiences on the web.
             </p>
             <p>
-              Aside from my day job, I work on a few side projects to help
-              designers and engineers build with speed
+              I'm currently enrolled on the "Web Development Bootcamp" from
+              Upleveled. An immersive 12-week Bootcamp where I'm learning
+              in-demand web technologies like HTML, CSS, JavaScript, React,
+              Node.js, GraphQL and Databases.
             </p>
 
             <p>
-              I work heavily with ReactJs, Redux, Styled Components, Figma,
-              Storybook & recently picked up C#/Dotnet Core for backend APIs. If
+              I work heavily with ReactJs, Redux, Styled Components and If
               you're excited about any of the following, please shoot at me on{' '}
               <a
-                href="https://twitter.com/vick_OnRails"
+                href="https://twitter.com/TiagoS_HR"
                 target="_blank"
                 rel="noopener noreferrer"
               >

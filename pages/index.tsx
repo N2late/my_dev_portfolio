@@ -11,7 +11,7 @@ import { StyledIndexPage } from '../components/styles/home.styles';
 // @ts-ignore
 const Index: FC = ({ selectedWorks }) => {
   return (
-    <Layout pathname="/" pageTitle="Next.js Starter Peacock">
+    <Layout pathname="/" pageTitle="Welcome to my Portfolio! :)">
       <StyledIndexPage>
         <Container>
           <Cards data={selectedWorks} basePath="works" />

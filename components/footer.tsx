@@ -1,8 +1,8 @@
 import React from 'react';
 import { Container } from './container';
 import {
-  CodepenIcon,
   GitHubIcon,
+  LinkedInIcon,
   StyledFooterSection,
   TwitterIcon,
 } from './styles/footer.styles';
@@ -14,7 +14,7 @@ const Footer = () => (
         <li className="footerSocialLink">
           <a
             className="footerLink"
-            href="https://github.com/vickOnRails"
+            href="https://github.com/N2Late"
             target="_blank"
             rel="noreferrer noopener"
             aria-label="github"
@@ -26,19 +26,19 @@ const Footer = () => (
         <li className="footerSocialLink">
           <a
             className="footerLink"
-            href="https://codepen.io/Vick_onrails"
+            href="https://www.linkedin.com/in/tiago-serra-hr/"
             target="_blank"
             rel="noreferrer noopener"
-            aria-label="codepen"
+            aria-label="linkedin"
           >
-            <CodepenIcon />
+            <LinkedInIcon />
           </a>
         </li>
 
         <li className="footerSocialLink">
           <a
             className="footerLink"
-            href="https://twitter.com/vick_onrails"
+            href="https://twitter.com/TiagoS_HR"
             target="_blank"
             rel="noreferrer noopener"
             aria-label="twitter"
@@ -53,11 +53,11 @@ const Footer = () => (
       <p className="about-site">
         Built by{' '}
         <a
-          href="https://twitter.com/vick_OnRails"
+          href="https://twitter.com/TiagoS_HR"
           target="_blank"
           rel="noreferrer noopener"
         >
-          @vick_onrails
+          @TiagoS_HR
         </a>
         . With NextJS, TypeScript Emotion and Vercel.{' '}
         <a

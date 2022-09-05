@@ -1,6 +1,6 @@
 import { css } from '@emotion/react';
 import styled from '@emotion/styled';
-import { Codepen, GitHub, Twitter } from 'react-feather';
+import { Codepen, GitHub, Linkedin, Twitter } from 'react-feather';
 
 export const StyledFooterSection = styled.footer`
   .footer-container {
@@ -40,6 +40,6 @@ export const GitHubIcon = styled(GitHub)`
 export const TwitterIcon = styled(Twitter)`
   ${iconStyles}
 `;
-export const CodepenIcon = styled(Codepen)`
+export const LinkedInIcon = styled(Linkedin)`
   ${iconStyles}
 `;
