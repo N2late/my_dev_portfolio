@@ -6,7 +6,7 @@ My Portfolio website where I'm sharing my most recent dev projects and other per
 
 ![My Portfolio Website](./public/images/screenshot.png)
 
-# Project Description
+## Project Description
 
 Project developed in the first day of the UpLeveled Bootcamp.
 
