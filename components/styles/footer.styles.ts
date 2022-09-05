@@ -1,6 +1,6 @@
 import { css } from '@emotion/react';
 import styled from '@emotion/styled';
-import { Codepen, GitHub, Linkedin, Twitter } from 'react-feather';
+import { GitHub, Linkedin, Twitter } from 'react-feather';
 
 export const StyledFooterSection = styled.footer`
   .footer-container {
